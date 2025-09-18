@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-%23000000?style=for-the-badge&logo=vue.js" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Master-%23007396?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Comfortable-%23007396?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
