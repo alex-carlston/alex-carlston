@@ -29,8 +29,9 @@
 
 - 🌐 **Modern Web Stack Leader**  
   From idea to production, I design full-stack experiences using:
-  - **React**, **Next.js**, **Node.js**
+  - **Vue.js**, **Next.js**, **React**, **Node.js**
   - **Cloudflare Workers**, **JWT Auth**, **REST & SOAP APIs**
+  - Pocketbase and Supabase BAAS
 
 - 🔐 **Security-First, Always**  
   I build with a deep respect for member trust: CORS, asymmetric key auth, secure data flows, and IP controls.
@@ -41,6 +42,6 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **CU Interface Toolkit** | A suite of tools that modernize the Symitar teller experience. | PowerOn, JS, SQL |
-| **DocMost Platform** | Secure web app framework for core-integrated credit union tools. | Next.js, Cloudflare, Node.js |
-| **CU Metrics Dashboard** | Custom data visualizations and reports for execs and ops teams. | React, PostgreSQL, Chart.js |
+| **BadgeQuests** | An engagement platform targeted at engagement with members by gamification components. [Check it out here](http://www.badgequests.com) | PowerOn, Vue.js, Pocketbase |
+| **CUspire** | An idea for collaboration, teamwork and growth integreated in Symitar as a collection of credit union tools. [Check it out here](http://www.cuspire.com)| Vue.js, PowerOn, Node.js |
+| **Banno Debit Card Rewards, Credit Card Rewards Demo** | [Screenshot](https://github.com/alex-carlston/alex-carlston/blob/main/Banno.jpg) | React, Cloudflare Works, Hono |
