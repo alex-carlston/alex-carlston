@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Symitar%20Expert-%23323330.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik02NCAxMkM5My44NTggMTIgMTE4IDE2LjE0MiAxMTggNjRDMTE4IDExMS44NTggOTMuODU4IDExNiA2NCAxMTZDNDYuNjM1IDExNiAzMy44MzcgMTEzLjEyIDIzLjg1OCAxMDYuMDE0QzExLjY4OSA5Ny4xMDEgNiA4NC4xMTYgNiA2NEM2IDE2LjE0MiAzMC4xNDIgMTIgNjQgMTJaIiBmaWxsPSIjRkZGIi8+Cjwvc3ZnPg==" alt="Symitar" />
   <img src="https://img.shields.io/badge/PowerOn%20Wizard-%23248EC2?style=for-the-badge&logo=code" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-%23000000?style=for-the-badge&logo=vue.js" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Master-%23007396?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
